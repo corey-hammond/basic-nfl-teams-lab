@@ -1,0 +1,66 @@
+[
+  {
+    "abv": "SF",
+    "team": "49ers",
+    "keyPlayers": "George Kittle, Jimmy Garropolo, Richard Sherman",
+    "coach": "Kyle Shanahan",
+    "record": "5-0",
+    "division": "nfc west"
+  },
+  {
+    "abv": "AR",
+    "team": "Caridnals",
+    "keyPlayers": "Larry Fitzgerald, Kyler Murray, Patrick Peterson",
+    "coach": "Kliff KingsBury",
+    "record": "2-3-1",
+    "division": "nfc west"
+  },
+  {
+    "abv": "SEA",
+    "team": "Seahawks",
+    "keyPlayers": "Russel Wilson, Chris Carson, Bobby Wagner  ",
+    "coach": "Pete Carrol",
+    "record": "5-1",
+    "division": "nfc west"
+  },
+  {
+    "abv": "LAR",
+    "team": "Rams",
+    "keyPlayers": "Todd Gurley, Jared Goff, Aaron Donald",
+    "coach": "Sean McVay",
+    "record": "3-3",
+    "division": "nfc west"
+  },
+  {
+    "abv": "NE",
+    "team": "Patriots",
+    "keyPlayers": "Tom Brady, Julian Edelman, Stephon Gilmore",
+    "coach": "Bill Belicheck",
+    "record": "6-0",
+    "division": "AFC East"
+  },
+  {
+    "abv": "GB",
+    "team": "Packers",
+    "keyPlayers": "Aaron Rodger, Davante Adams, ZaDarius Smith ",
+    "coach": "Matt LaFleur",
+    "record": "5-1",
+    "division": "nfc north"
+  },
+  {
+    "abv": "NO",
+    "team": "Saints",
+    "keyPlayers": "Drew Brees, Michael Thomas, Alvin Kamara",
+    "coach": "Sean Payton",
+    "record": "5-1",
+    "division": "nfc south"
+  },
+  {
+    "abv": "PHI",
+    "team": "Eagles",
+    "keyPlayers": "Carson Wentz, DeSean Jackson, Alshon Jeffrey",
+    "coach": "Doug Pederson",
+    "record": "3-3",
+    "division": "nfc eest"
+  }
+]
