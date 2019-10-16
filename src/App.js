@@ -18,10 +18,9 @@ class App extends Component {
     return (
       <div className="App">
         <nav className="nav-bar">
-          <Link to="/teams">Home</Link>
-          <Link to="/about">About</Link>
+          <Link to="/teams">Home</Link> <Link to="/about">About</Link>
         </nav>
-        <main>
+        <main className="container">
           <Switch>
             <Route
               path="/teams"
@@ -31,7 +30,8 @@ class App extends Component {
             <Route path="/about" component={About} />
             <Route
               path="/teams/:abv"
-              render={props => <Team match={props.match} teams={this.state.teams} />}
+              component={Team}
+              // render={props => <Team match={props.match} teams={this.state.teams} />}
             />
             <Route path="/*" render={() => <Redirect to="/teams" />} />
           </Switch>

@@ -1,5 +1,34 @@
 .App {
   text-align: center;
+  
+}
+
+body {
+  
+  background-image: url("./Images/dave-adamson-rPUDwwLSohI-unsplash.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  color: yellow;
+}
+
+li {
+  list-style: none;
+  padding: 3px;
+}
+
+a {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+}
+
+.nav-bar {
+  margin: 50px;
 }
 
 .App-logo {
